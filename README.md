@@ -23,3 +23,7 @@ This project is part of Codecademy front end course.
 - Go to `jamming/src/utill/spotify.js`
 - Add you Cliend ID to `clientID` variable
 - Deploy the app with Surge
+
+## Feature Request
+
+[Feature Request](https://docs.google.com/document/d/1-Ro9BaaYicWSHkCsTY5UouuVIvwNKPvHpXcfWKbISlo/edit#heading=h.z7lv8xkg85x9)
